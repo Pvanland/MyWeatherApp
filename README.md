@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app also uses material-ui for styling if for some reason you need to download material-ui it can be done with the following
+
+for material-ui core
+npm install @material-ui/core
+
+for material-ui icons
+npm install @material-ui/icons
+
 ## Available Scripts
 
 In the project directory, you can run:
